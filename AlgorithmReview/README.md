@@ -1,2 +1,2 @@
 ### 线性模型
-### csdn:陆续更新
+### csdn:https://blog.csdn.net/y0929 陆续更新
